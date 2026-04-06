@@ -152,7 +152,7 @@ const createMobileMenu = () => {
 createMobileMenu();
 */
 
-// Add typing effect to hero section (optional enhancement)
+// Add typing effect to banner section (optional enhancement)
 const addTypingEffect = () => {
     const subtitle = document.querySelector('.subtitle');
     if (subtitle) {

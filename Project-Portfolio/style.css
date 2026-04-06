@@ -72,15 +72,15 @@ nav .container {
     color: var(--primary-color);
 }
 
-/* Hero Section */
-.hero {
+/* Banner Section */
+.banner {
     background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
     color: white;
     padding: 100px 0;
     text-align: center;
 }
 
-.hero-content h2 {
+.banner-content h2 {
     font-size: 3rem;
     margin-bottom: 1rem;
 }
@@ -316,7 +316,7 @@ footer p {
         gap: 1rem;
     }
     
-    .hero-content h2 {
+    .banner-content h2 {
         font-size: 2rem;
     }
     
@@ -357,7 +357,7 @@ footer p {
         justify-content: center;
     }
     
-    .hero {
+    .banner {
         padding: 60px 0;
     }
     
